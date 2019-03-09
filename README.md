@@ -1,3 +1,3 @@
 # coding_fun
 
-The repository is for personal practice and problem solving. I will store all interesting problems encountered in the repository.
+The best way to improve coding is through using and exploring it. My goal is to apply my coding skill to solve interesting problems and explore various approaches. This repository was created for personal practice and problem solving. I will store and share all interesting problems solved in the repository.
